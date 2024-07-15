@@ -36,7 +36,7 @@ sound.addEventListener('ended', () => {
 function autoScroll() {
     const currentScrollPosition = window.scrollY; // Get current scroll position
     window.scroll(0, currentScrollPosition + 60); // Scroll 100px from current position
-    setTimeout(autoScroll, 1500); // Repeat every 1 second
+    setTimeout(autoScroll, 2500); // Repeat every 1 second
 }
   
 
