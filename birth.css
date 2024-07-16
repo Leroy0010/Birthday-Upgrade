@@ -60,3 +60,9 @@ footer > p {
 html {
     scroll-behavior: smooth;
 }
+
+@media (max-width: 450px){
+    img {
+        height: 25rem;
+    }
+}
