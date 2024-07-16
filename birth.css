@@ -8,6 +8,7 @@ img {
     height: 50rem;
     width: 100%;
     flex-grow: 1;
+    object-fit: contain;
 }
 
 .body-para {
