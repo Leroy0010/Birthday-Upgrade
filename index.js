@@ -1,7 +1,9 @@
 var playing = false;
 var sound = new Audio("./01-Monk-Turner-Fascinoma-Its-Your-Birthday(chosic.com).mp3");
 
+year = new Date().getFullYear();
 
+$(".year").text("@Leroy " + year);
 
 $(".btn").on("click", function () {
     $(this).toggleClass("down");
