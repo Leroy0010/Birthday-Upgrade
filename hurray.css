@@ -16,7 +16,7 @@ body {
     width: 100%;
     margin: 0;
     /* background-color: seashell; */
-    background-image: linear-gradient(55deg, #FFFF00 0%, #00FF80 35%, #FF0080 55%,#00FFFF 75%, #FF00FF 83%,#0000FF 100%);
+    background-image: linear-gradient(55deg, #FFFF00 0%, #00FF80 0%, #FF0080 55%,#00FFFF 75%, #FF00FF 83%,#0000FF 100%);
     /* background-image: linear-gradient(180deg, #0000ff 0%, #00ff00 50%, #00ff00 100%); */
     /* background-image: linear-gradient(180deg, #0000ff 0%, #00ff00 50%, #00ff00 100%); */
     background-image: radial-gradient(top, yellow, green);
